@@ -23,36 +23,28 @@ A Flutter project that recreates the WhatsApp chat interface with a clean and re
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DoaaAbdallah1/whatsapp.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd whatsapp_01
-   ```
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Run the application:
-   ```bash
-   flutter run
-   ```
+Clone the repository:
 
-## 📂 Project Structure
+```bash
+git clone https://github.com/DoaaAbdallah1/whatsapp.git
+```
 
-```text
-lib/
- ├── core/
- │   └── constants/
- │       ├── app_colors.dart
- │       └── app_images.dart
- │
- └── features/
-     └── chat/
-         ├── screens/
-         └── widgets/
+Navigate to the project directory:
+
+```bash
+cd whatsapp
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
 ```
 
 ## 👩‍💻 Developer
